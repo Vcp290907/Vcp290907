@@ -1,4 +1,4 @@
-## Hi there 👋
+## Oie 👋
 
 <!--
 **Vcp290907/Vcp290907** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Olá, bem vindo ao meu Perfil :)
+Meu chamo Vinícius Coan Pissarou, atualmente tenho 17 anos, sou do Brasil e estudo na ETEC Bento Quirino
+Atualmente estou fazendo Desenvolvimento de Sistemas junto com o Ensino Médio
+
+O que aprendi até hoje:
+<img width="265" src="https://github.com/user-attachments/assets/0e53c1c6-9f46-4dbf-b9af-abc4fdf2e3e8">
+<img width="265" src="https://github.com/user-attachments/assets/5669f476-f2d4-42bc-961e-3760d9a6713c">
+<img width="265" src="https://github.com/user-attachments/assets/ebed15b7-bd4e-4c68-8ec9-3be4d852ebe7">
