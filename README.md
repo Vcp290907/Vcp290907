@@ -1,6 +1,6 @@
 ## Oie 👋
 
-## Olá, meu nome é Vinícius Coan Pissarou!
+## Olá, meu nome é Vinícius Coan Pissarouk!
 
 🔭 Atualmente estou desenvolvendo uma carrinho seguidor de linha com Open CV e RaspBerry Pi5
 
