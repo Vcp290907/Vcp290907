@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1500&color=F72727&center=true&vCenter=true&width=650&lines=Ol%C3%A1+sou+o+Vinicius+Coan+Pissarouk;%F0%9F%93%96Atualmente+estudo+Desenvolvimento+de+Sistemas;%F0%9F%9B%A0%EF%B8%8FDesenvolvendo+um+rob%C3%B4+AGV+com+Vis%C3%A3o+Computacional)](https://git.io/typing-svg)
 
-🔭 Atualmente estou desenvolvendo uma robô AGV, com visão computacional e um braço artivulado
+🔭 Atualmente estou desenvolvendo um robô AGV, com visão computacional e um braço artivulado
 
 ---
 
